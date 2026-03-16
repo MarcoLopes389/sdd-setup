@@ -1,0 +1,3 @@
+- Always use the official documentation before forum's knowledgement.
+- When changing the code, make two blocks separated by comments: one with old code and another with the new code. This is best for review waht you do. Only do it if the changes will be made in the same file.
+- Always avoid to install more external packages. Try to solve the problem with the current tools.
